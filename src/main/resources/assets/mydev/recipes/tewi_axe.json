@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    " XX",
+    " #X",
+    " # "
+  ],
+
+  "key":
+  {
+    "#":
+    {
+      "item": "minecraft:stick"
+    },
+    "X":
+    {
+      "item": "mydev:tewi_ingot"
+    }
+  },
+
+  "result":
+  {
+    "item": "mydev:tewi_axe"
+  }
+}

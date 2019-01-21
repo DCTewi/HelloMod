@@ -1,0 +1,11 @@
+itemGroup.mydev=Tewi's DevMod
+
+item.tewiIngot.name=Tewi Ingot
+item.tewiSword.name=Tewi Sword
+item.tewiPickaxe.name=Tewi Pickaxe
+item.tewiAxe.name=Tewi Axe
+item.tewiShovel.name=Tewi Shovel
+
+tile.tewiOre.name=Tewi Ore
+tile.tewiBlock.name=Tewi Block
+

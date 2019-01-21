@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+
+  "key":
+  {
+    "X":
+    {
+      "item": "mydev:tewi_ingot"
+    }
+  },
+
+  "result":
+  {
+    "item": "mydev:tewi_block"
+  }
+}

@@ -1,0 +1,13 @@
+[
+{
+  "modid": "mydev",
+  "name": "DCTewi's DevMod",
+  "description": "DCTewi's Minecraft Mod Development Attempt",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "https://github.com/DCTewi/MyDevMod",
+  "authorList": ["DCTewi"],
+  "credits": "Forge, Dell, hookan, Google",
+  "logoFile": "assets/mydev/textures/items/tewi_sword.png"
+}
+]

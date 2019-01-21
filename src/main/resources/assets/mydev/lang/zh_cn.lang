@@ -1,0 +1,11 @@
+itemGroup.mydev=冻葱的MOD开发练习
+
+item.tewiIngot.name=Tewi锭
+item.tewiSword.name=Tewi大剑
+item.tewiPickaxe.name=Tewi镐头
+item.tewiAxe.name=Tewi斧头
+item.tewiShovel.name=Tewi铲子
+
+tile.tewiOre.name=Tewi矿石
+tile.tewiBlock.name=Tewi块儿
+
