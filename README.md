@@ -23,7 +23,7 @@ It's DCTewi's Minecraft Mod Development Attempt.
 - A Custom Creative Tab
 - English and Chinese Support
 
-*Recipes is same as minecraft tools.
+*Recipes are same as minecraft tools.
 
 ## Building
 
