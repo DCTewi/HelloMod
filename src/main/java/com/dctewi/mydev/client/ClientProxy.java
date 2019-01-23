@@ -1,5 +1,6 @@
 package com.dctewi.mydev.client;
 
+import com.dctewi.mydev.client.event.MyDevClientEventHandler;
 import com.dctewi.mydev.common.CommonProxy;
 import com.dctewi.mydev.common.block.MyDevBlocks;
 import com.dctewi.mydev.common.item.MyDevItems;
@@ -20,5 +21,6 @@ public class ClientProxy extends CommonProxy
     public void init(FMLInitializationEvent event)
     {
         super.init(event);
+        MyDevClientEventHandler.init();
     }
 }
